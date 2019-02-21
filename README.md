@@ -1,4 +1,5 @@
 # seaborn-tutorials
-Jupyter Notebooks on Seaborn 
+Jupyter Notebooks on Seaborn :
+
 Here you will find jupyter notebooks written by me related to Seaborn, A very high level plotting interface 
 generating statstical graphics in python.
